@@ -11,14 +11,11 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
 ### Contactame 📝
 
-<a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg" alt="GabrielaLescano" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="left" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg" alt="GabrielaLescano" height="30" width="40" /></a>
 
-<a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://img.icons8.com/plasticine/2x/gmail.png" height="40" width="40" /></a>
+<a href = "mailto: gab.f.lescano@gmail.com"><img align="left" src="https://img.icons8.com/plasticine/2x/gmail.png" height="40" width="40" /></a>
 
 
 <br />
