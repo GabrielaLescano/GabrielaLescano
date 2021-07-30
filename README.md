@@ -18,7 +18,7 @@
 
 <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg" alt="GabrielaLescano" height="30" width="40" /></a>
 
-<a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://img.icons8.com/plasticine/2x/gmail.png" height="30" width="40" /></a>
+<a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://img.icons8.com/plasticine/2x/gmail.png" height="40" width="40" /></a>
 
 
 <br />
@@ -42,8 +42,3 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-<br/>
-
----
-
-[linkedin]: https://www.linkedin.com/in/gabriela-lescano/
