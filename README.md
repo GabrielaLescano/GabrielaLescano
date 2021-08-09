@@ -1,9 +1,9 @@
 # Hi, hi!, Soy Gab! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
 
 
-<img align="right" alt="GIF" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
-
 ## Full Stack Web Developer   -   Visual Artist
+
+<img align="right" alt="GIF" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
 
 - 👾 En el año 2021 comencé mis estudios en soyHenry 🚀 como Full Stack Web Developer, donde descubrí que me encanta el diseño web 💟
 - 👾 Anteriormente realicé algunos pequeños cursos en C y C++ 💻
