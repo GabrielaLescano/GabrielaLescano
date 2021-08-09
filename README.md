@@ -1,4 +1,7 @@
 # Hi, hi!, Soy Gab! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630674.png" alt="GabrielaLescano" height="40" width="40" /></a>
+
+<a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630491.png" height="40" width="40" /></a>
 
 <img align="right" alt="GIF" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
 
