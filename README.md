@@ -15,17 +15,6 @@ contactMe ? ' email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align
 
 ---
 
-### Contactame 📝
-
-<a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630674.png" alt="GabrielaLescano" height="40" width="40" /></a>
-
-<a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630491.png" height="40" width="40" /></a>
-
-
-<br />
-
----
-
 ### Lenguajes y herramientas 🛠 
 
 
@@ -41,5 +30,12 @@ contactMe ? ' email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+
+<br />
+
+---
+  
+### Contactame 📝
 
 
