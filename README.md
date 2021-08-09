@@ -10,6 +10,7 @@
 - 👾 Una de las cosas que más me gusta es darle estilos a mis proyectos 🎨
 - 👾 Actualmente sigo estudiando variadas tecnologías, como Typescript, y profundizando en React 💻
 
+<br />
 
 contactMe ? ' email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630491.png" height="40" width="40" /></a> ' : ' MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630674.png" alt="GabrielaLescano" height="40" width="40" />' ;
 
@@ -36,6 +37,6 @@ contactMe ? ' email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align
 
 ---
   
-### Contactame 📝
+### Algunos proyectos 📝
 
-
+***Coming soon***
