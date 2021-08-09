@@ -7,7 +7,7 @@
 - 👾 En el año 2021 comencé mis estudios en soyHenry 🚀 como Full Stack Web Developer, donde descubrí que me encanta el diseño web 💟
 - 👾 Anteriormente realicé algunos pequeños cursos en C y C++ 💻
 - 👾 Una de las cosas que más me gusta es darle estilos a mis proyectos 🎨
-- 👾 Actualmente sigo estudiando variadas tecnologías, como Vue.js, y profundizando en React 💻
+- 👾 Actualmente sigo estudiando variadas tecnologías, como Typescript, y profundizando en React 💻
 
 ---
 
