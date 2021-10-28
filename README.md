@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
 
-- 👾 En el año 2021 comencé mis estudios en soyHenry 🚀 como Full Stack Web Developer, donde descubrí que me encanta el diseño web 💟
+- 👾 En el año 2021 comencé mis estudios en soyHenry 🚀 como Full Stack Web Developer, donde descubrí que me encanta el diseño web y el desarrollo Front End💟
 - 👾 Anteriormente realicé algunos pequeños cursos en C y C++ 💻
 - 👾 Una de las cosas que más me gusta es darle estilos a mis proyectos 🎨
 - 👾 Actualmente sigo estudiando algunas tecnologías, como Typescript, y profundizando en React 💻
