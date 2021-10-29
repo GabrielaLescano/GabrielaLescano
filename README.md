@@ -1,4 +1,4 @@
-# Hi, hi!, Soy Gab! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
+# Hi, hi! Soy Gab! <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
 
 
 ## Full Stack Web Developer   -   Visual Artist
@@ -6,14 +6,15 @@
 <img align="right" alt="GIF" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
 
 - En agosto de 2021 me gradué en soyHenry 🚀 como Full Stack Web Developer, 
-  durante mis estudios descubrí que me encantan el diseño web y el desarrollo Front End💟
-- Actualmente soy FrontEnd Developer en Chiper 
+  durante mis estudios descubrí que me encantan el diseño web y 
+  el desarrollo Front End 💟
+- Actualmente soy FrontEnd Developer en <a href="https://www.linkedin.com/company/chiperinc/mycompany" />Chiper<a/>
 - Una de las cosas que más me gusta es darle estilos a mis proyectos 🎨
 - Sigo aprendiendo algunas tecnologías y profundizando en React 💻
 
 <br />
 
-Contact me =>   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630491.png" height="40" width="40" /></a>   MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630674.png" alt="GabrielaLescano" height="40" width="40" />
+Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630491.png" height="40" width="40" /></a>   MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630674.png" alt="GabrielaLescano" height="40" width="40" />
 
 ---
 
