@@ -21,19 +21,21 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 ### Lenguajes y herramientas 🛠 
 
 
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-158FD6?&logo=cplusplus&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-35A5E7?&logo=cplusplus&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-Typescript-%23035CD7?style=&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=&logo=Bootstrap)
+![Nodejs]https://img.shields.io/badge/-Nodejs-6FD61F?style=&logo=Node.js&logoColor=ffffff)
+![Sequelize](https://img.shields.io/badge/-Sequelize-%2300B2FD?style=&logo=sequelize&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-npm-CB3837?style=&logo=npm)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=&logo=visual-studio-code&logoColor=ffffff)
 
 
 <br />
