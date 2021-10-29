@@ -7,7 +7,7 @@
 
 - En agosto de 2021 me gradué en soyHenry 🚀 como Full Stack Web Developer, 
   durante mis estudios descubrí que me encantan el diseño web y el desarrollo Front End💟
-- Actualmente soy FrontEnd Engineer en Chiper</a>https://www.linkedin.com/company/chiperinc/mycompany/<a/> 
+- Actualmente soy FrontEnd Engineer en Chiper</a> <a href =https://www.linkedin.com/company/chiperinc/mycompany/<a/> />
 - Una de las cosas que más me gusta es darle estilos a mis proyectos 🎨
 - Sigo aprendiendo algunas tecnologías y profundizando en React 💻
 
