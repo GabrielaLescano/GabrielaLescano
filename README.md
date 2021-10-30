@@ -25,6 +25,7 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 ![C++](https://img.shields.io/badge/-C++-35A5E7?&logo=cplusplus&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-Typescript-%23035CD7?style=&logo=typescript&logoColor=ffffff)
+  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=&logo=react&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/-Redux-A444E8?style=&logo=redux&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=&logo=html5&logoColor=ffffff)
@@ -32,11 +33,13 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 ![Sass](https://img.shields.io/badge/-Sass-%23FD57D4?style=&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=&logo=Bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-00D2EC?style=&logo=tailwindcss&logoColor=ffffff)
+  
 ![Nodejs](https://img.shields.io/badge/-Nodejs-6FD61F?style=&logo=Node.js&logoColor=ffffff)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-%2300B2FD?style=&logo=sequelize&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-F6FFEC?style=&logo=express&logoColor=000000)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=&logo=npm)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=&logo=git&logoColor=%23ffffff)
+  
+![Git](https://img.shields.io/badge/-Git-%23FF6900?style=&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=&logo=visual-studio-code&logoColor=ffffff)
 
