@@ -8,7 +8,7 @@
 - En agosto de 2021 me gradué en soyHenry 🚀 como Full Stack Web Developer, 
   durante mis estudios descubrí que me encantan el diseño web y 
   el desarrollo Front End 💟
-- Actualmente soy FrontEnd Developer en <a href="https://www.linkedin.com/company/chiperinc/mycompany" />Chiper<a/>
+- Actualmente soy FrontEnd Developer en <a href="https://www.linkedin.com/company/chiperinc/mycompany" />Chiper<a/> :sparkles:
 - Una de las cosas que más me gusta es darle estilos a mis proyectos 🎨
 - Sigo aprendiendo algunas tecnologías y profundizando en React 💻
 
