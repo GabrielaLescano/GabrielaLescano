@@ -30,8 +30,7 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 ![Redux](https://img.shields.io/badge/-Redux-A444E8?style=&logo=redux&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23FD57D4?style=&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=&logo=Bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-55246A?style=&logo=Bootstrap&logoColor=9900EF)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-00D2EC?style=&logo=tailwindcss&logoColor=ffffff)
   
 ![Nodejs](https://img.shields.io/badge/-Nodejs-6FD61F?style=&logo=Node.js&logoColor=ffffff)
