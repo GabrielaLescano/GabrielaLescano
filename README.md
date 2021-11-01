@@ -55,7 +55,7 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
   
 <div align='center'>
 El repositorio PI Pokemon es privado ! :eyes:
-<a href="https://github.com/GabrielaLescano/" target="_blank"><img width="330" height="190" alt="PI Pokemon" src="https://media.giphy.com/media/lb5c2Zwr9Sdva52x6r/giphy.gif" /></a>
+<a href="https://github.com/GabrielaLescano/" target="_blank"><img align="right" width="330" height="190" alt="PI Pokemon" src="https://media.giphy.com/media/lb5c2Zwr9Sdva52x6r/giphy.gif" /></a>
 </div>
 
   <br />
