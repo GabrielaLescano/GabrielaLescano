@@ -54,8 +54,8 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 </div>
   
 <div align='center'>
-<a href="https://github.com/GabrielaLescano/"><img width="306" height="200" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GabrielaLescano&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="counter-app"></a>
-<a href="https://github.com/GabrielaLescano/" target="_blank"><img width="296" height="190" alt="PI Pokemon" src="https://media.giphy.com/media/lb5c2Zwr9Sdva52x6r/giphy.gif" /></a>
+El repositorio PI Pokemon es privado ! :eyes:
+<a href="https://github.com/GabrielaLescano/" target="_blank"><img width="320" height="190" alt="PI Pokemon" src="https://media.giphy.com/media/lb5c2Zwr9Sdva52x6r/giphy.gif" /></a>
 </div>
 
   <br />
