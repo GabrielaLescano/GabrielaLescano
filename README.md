@@ -21,9 +21,9 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 ### Lenguajes y herramientas 🛠 
 
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-35A5E7?&logo=cplusplus&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=&logo=c&logoColor=ffffff) 
+![C++](https://img.shields.io/badge/-C++-35A5E7?&logo=cplusplus&logoColor=ffffff) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)  
 ![TypeScript](https://img.shields.io/badge/-Typescript-%23035CD7?style=&logo=typescript&logoColor=ffffff)
   
 ![React](https://img.shields.io/badge/-React-61DAFB?style=&logo=react&logoColor=ffffff)
