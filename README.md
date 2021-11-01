@@ -56,7 +56,7 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 </div>
   <br />
 <div align='center'>
-- El repositorio de este proyecto es privado ¡ :eyes: ! 
+<p> - El repositorio de este proyecto es privado ¡ :eyes: ! </p>
 <a href="https://github.com/GabrielaLescano/" target="_blank"><img width="330" height="190" alt="PI Pokemon" src="https://media.giphy.com/media/lb5c2Zwr9Sdva52x6r/giphy.gif" /></a>
 </div>
 
