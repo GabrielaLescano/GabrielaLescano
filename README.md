@@ -15,10 +15,9 @@
 <br />
 
 Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630491.png" height="40" width="40" /></a>   MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630674.png" alt="GabrielaLescano" height="40" width="40" />
-
----
-  
 <br />
+  
+---
   
 ### Lenguajes y herramientas 🛠 
 
@@ -48,8 +47,6 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 <br />
 
 ---
-  
-<br />
   
 ### Algunos proyectos 📝
   <br />
