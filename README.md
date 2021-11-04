@@ -3,7 +3,6 @@
 
 ## Full Stack Web Developer   -   Visual Artist
 <br />
-<br />
 <img align="right" alt="GIF" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
 
 - En agosto de 2021 me gradué en soyHenry 🚀 como Full Stack Web Developer, 
@@ -18,7 +17,7 @@
 Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630491.png" height="40" width="40" /></a>   MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2630/2630674.png" alt="GabrielaLescano" height="40" width="40" />
 
 ---
-  
+<br />
 ### Lenguajes y herramientas 🛠 
 
 <br />
@@ -47,7 +46,7 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 <br />
 
 ---
-  
+<br />
 ### Algunos proyectos 📝
   <br />
   <br />
