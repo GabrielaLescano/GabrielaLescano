@@ -18,10 +18,9 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 
 ---
   
-<div align='center'>
-  
 ### Lenguajes y herramientas 🛠 
 
+<br />
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=&logo=c&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-35A5E7?&logo=cplusplus&logoColor=ffffff)
@@ -43,8 +42,6 @@ Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img ali
 ![Git](https://img.shields.io/badge/-Git-%23FF6900?style=&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=&logo=visual-studio-code&logoColor=ffffff)
-  
-</div>
 
 <br />
 
