@@ -3,7 +3,7 @@
 
 ## Full Stack Web Developer   -   Visual Artist
 <br />
-<img align="right" alt="GIF" width="180px" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
+<img align="right" alt="GIF" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
 
 - En agosto de 2021 me gradué en soyHenry 🚀 como Full Stack Web Developer, 
   durante mis estudios descubrí que me encantan el diseño web y 
