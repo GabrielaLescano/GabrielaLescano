@@ -12,8 +12,6 @@
 - Una de las cosas que más me gusta es darle estilos a mis proyectos 🎨
 - Sigo aprendiendo nuevas tecnologías y profundizando en React 💻
 
-<img align="right" alt="GIF" height="160px" src="https://i0.wp.com/i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" />
-
 <br />
 
 Contact me ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/324/324123.png" height="40" width="40" /></a>   MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="GabrielaLescano" height="35" width="35" />
