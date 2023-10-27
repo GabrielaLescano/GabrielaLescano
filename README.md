@@ -2,6 +2,7 @@
 
 - FullStack developer especializada en Front End 💻
 - Trabajo principalmente con JavaScript, Typescript, React, React Native, Node.JS
+- Soy Frontend Developer SSr en <a href = "https://www.real-trends.com/ar/">Real Trends</a> ✨
 - Actualmente estoy estudiando Swift y profundizando mis conocimientos en React Native 📖
 
 <br />
