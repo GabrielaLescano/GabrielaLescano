@@ -2,11 +2,9 @@
 
 - FullStack developer especializada en Front End 💻
 - Trabajo principalmente con JavaScript, Typescript, React, React Native, Node.JS
-- Soy Frontend Developer SSr en <a href = "https://www.real-trends.com/ar/">Real Trends</a> ✨
-- Actualmente estoy estudiando Swift y profundizando mis conocimientos en React Native 📖
 
 <br />
 
-Contacto ->   email: </a> <a href = "mailto: gab.f.lescano@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/324/324123.png" height="40" width="40" /></a>   MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="GabrielaLescano" height="35" width="35" />
+Contacto ->   email: </a> <a href = "mailto: lesc.gabriela@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/324/324123.png" height="40" width="40" /></a>   MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="GabrielaLescano" height="35" width="35" />
 <br />
   
