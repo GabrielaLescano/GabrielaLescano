@@ -1,6 +1,6 @@
 # ✦ ¡Hi hi, soy Gab!
 
-** Frontend / Fullstack Developer ** de Buenos Aires, Argentina.  
+**Frontend / Fullstack Developer** de Buenos Aires, Argentina.  
 Especializada en el desarrollo de aplicaciones web y móviles de alto rendimiento, sistemas de diseño complejos e interfaces interactivas y cuidadas al detalle.
 
 ---
