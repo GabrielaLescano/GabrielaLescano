@@ -1,10 +1,36 @@
-## Hi, hi! Soy Gab! <img width="30px" height="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> 
+# ✦ ¡Hi hi, soy Gab!
 
-- FullStack developer especializada en Front End 💻
-- Trabajo principalmente con JavaScript, Typescript, React, React Native, Node.JS
+** Frontend / Fullstack Developer ** de Buenos Aires, Argentina.  
+Especializada en el desarrollo de aplicaciones web y móviles de alto rendimiento, sistemas de diseño complejos e interfaces interactivas y cuidadas al detalle.
 
-<br />
+---
 
-Contacto ->   email: </a> <a href = "mailto: lesc.gabriela@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/324/324123.png" height="40" width="40" /></a>   MD LinkedIn : <a href="https://www.linkedin.com/in/gabriela-lescano/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="GabrielaLescano" height="35" width="35" />
-<br />
-  
+### 🛠️ Tecnologías y Capacidades
+
+- **Frontend & Mobile:** React, React Native, TypeScript, JavaScript (ES6+), Next.js, Redux Toolkit
+- **Interfaz y Estilos:** Tailwind CSS, Styled Components, HTML5/CSS3 (PostCSS, Scoping, Animaciones)
+- **Tooling y Arquitectura:** Vite, Astro, Webpack, Docker, Microfrontends, REST APIs
+- **Testing y Calidad:** Jest, React Testing Library, Cypress, Testing QA
+- **Bases del Backend:** Node.js, Express, PostgreSQL, Drizzle ORM / Prisma
+
+---
+
+### 🎨 Ingeniería Creativa y Proyectos
+
+- **[Órbita](#)**: Motor de perfiles sociales personalizables con scoping de CSS en tiempo real, sanitizado de HTML y reproductor web.
+- **Portfolio Personal**: Portfolio interactivo construido con Vite, React, TypeScript y Tailwind CSS.
+- **Sistemas de E-commerce y Pagos**: +4 años desarrollando flujos de facturación, pasarelas de pago y arquitecturas web/móviles para plataformas e-commerce de alto tráfico.
+
+---
+
+### 📬 Contacto
+
+- 💼 **LinkedIn:** [linkedin.com/in/gabriela-lescano](https://linkedin.com/in/gabriela-lescano)
+- ✉ **Email:** [lesc.gabriela@gmail.com](mailto:lesc.gabriela@gmail.com)
+- 🌐 **Portfolio:** [gabriela-lescano.vercel.app](gabriela-lescano.vercel.app)
+
+---
+
+<p align="center">
+  <i>"Combinando la estética de las artes visuales con una arquitectura frontend limpia y escalable."</i>
+</p>
